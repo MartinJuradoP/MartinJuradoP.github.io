@@ -1,0 +1,174 @@
+{
+  "header": {
+    "brand": {
+      "line1": "MARTIN JURADO",
+      "line2": "PEDROZA"
+    },
+    "nav": {
+      "about": "Sobre mí",
+      "advisory": "Asesoría",
+      "experience": "Experiencia",
+      "writing": "Publicaciones",
+      "speaking": "Conferencias",
+      "contact": "Contacto"
+    },
+    "cta": "Conversemos",
+    "mobileMenuAria": "Abrir menú"
+  },
+  "hero": {
+    "eyebrow": "Tecnología, Datos e IA para transformación empresarial.",
+    "name": {
+      "first": "Martin Jurado",
+      "last": "Pedroza"
+    },
+    "category": "Tecnología, Datos, IA y Ejecución CTO",
+    "role": "Asesor Ejecutivo",
+    "description": "Asesoro a equipos directivos en decisiones de tecnología, datos e IA con profundidad de ejecución a nivel CTO: construcción de sistemas, liderazgo de equipos de ingeniería y entrega de plataformas empresariales con resultados medibles.",
+    "proofLine": "He liderado la entrega de plataformas empresariales de datos e IA, coordinado equipos multidisciplinarios y habilitado la adopción de decisiones basadas en datos a escala.",
+    "badges": [
+      "CTO / CDAO / CAIO",
+      "Consejos y Comités",
+      "Datos, IA y Arquitectura",
+      "Upskilling y Desarrollo de Capacidades",
+      "Autor de Discovering Big Data"
+    ],
+    "ctaPrimary": "Conversemos",
+    "ctaSecondary": "Ver experiencia",
+    "imageAlt": "Retrato de Martin Jurado Pedroza"
+  },
+  "about": {
+    "label": "Sobre mí",
+    "title": "Liderazgo de Transformación a Nivel Ejecutivo",
+    "paragraphs": [
+      "Trabajo con comités ejecutivos y consejos en la intersección entre estrategia y ejecución, ayudando a las organizaciones a avanzar su transformación tecnológica con claridad, alineación y resultados medibles. Mi enfoque combina profundidad técnica y visión de negocio para diseñar decisiones que generen impacto inmediato y valor sostenible.",
+      "Más que construir productos o funcionalidades, desarrollo capacidad organizacional: acompaño líderes, diseño modelos de gobierno y estructuro hojas de ruta que convierten la estrategia en ventaja competitiva sostenida.",
+      "Mi perspectiva de asesoría está respaldada por ejecución a nivel CTO: construcción de sistemas resilientes, liderazgo de organizaciones de ingeniería multidisciplinarias y entrega de plataformas de datos e IA desde la arquitectura hasta su adopción en producción.",
+      "También impulso transformación organizacional mediante desarrollo de capacidades: upskilling de talento interno, creación de academias de datos e IA y habilitación de equipos de negocio para adoptar nuevas prácticas con autonomía y confianza."
+    ],
+    "expertise": {
+      "items": [
+        {
+          "title": "Estrategia Tecnológica",
+          "description": "Alineo hojas de ruta tecnológicas con objetivos de negocio y oportunidades de mercado."
+        },
+        {
+          "title": "Liderazgo en IA y Datos",
+          "description": "Diseño capacidades de datos e IA que impulsan transformación y creación de valor."
+        },
+        {
+          "title": "Diseño Organizacional",
+          "description": "Estructuro equipos y gobierno para una ejecución efectiva y escalable."
+        },
+        {
+          "title": "Gestión de Riesgo",
+          "description": "Identifico y mitigo riesgos de negocio, técnicos y de ejecución."
+        },
+        {
+          "title": "Asesoría a Consejos",
+          "description": "Brindo orientación estratégica a consejos sobre tecnología y transformación."
+        },
+        {
+          "title": "Mentoría Ejecutiva",
+          "description": "Fortalezco capacidades de liderazgo y marcos de toma de decisión."
+        }
+      ]
+    }
+  },
+  "advisory": {
+    "label": "Servicios de Asesoría",
+    "title": "Asesoría y Comités Ejecutivos",
+    "intro": "Colaboro con equipos directivos y consejos asesores para orientar iniciativas de tecnología, datos e IA, asegurando alineación estratégica, mitigación de riesgo y ejecución escalable basada en experiencia real de entrega de plataformas y liderazgo de ingeniería.",
+    "activationLine": "Acompaño procesos de upskilling, habilitación ejecutiva y activación organizacional para convertir la estrategia en adopción sostenida.",
+    "cards": [
+      {
+        "icon": "👥",
+        "title": "Soporte para Decisión Ejecutiva",
+        "description": "Acompaño decisiones de inversión en datos e IA con análisis de impacto de negocio y trade-offs de ejecución."
+      },
+      {
+        "icon": "🎯",
+        "title": "Alineación Estratégica",
+        "description": "Alineo capacidades técnicas con necesidades reales del negocio y oportunidades de mercado."
+      },
+      {
+        "icon": "⚡",
+        "title": "Transformación con Riesgo Controlado",
+        "description": "Reduzco riesgo de transformación mediante arquitectura, gobierno y ejecución por fases."
+      },
+      {
+        "icon": "🌉",
+        "title": "Puente Negocio-Tecnología",
+        "description": "Conecto equipos de negocio y tecnología para acelerar claridad, coordinación y resultados."
+      },
+      {
+        "icon": "📈",
+        "title": "De la Estrategia a la Entrega",
+        "description": "Impulso la ejecución desde la definición estratégica hasta el despliegue operativo y el escalamiento de plataformas."
+      }
+    ],
+    "stats": [
+      {
+        "value": "12+",
+        "label": "Años de liderazgo"
+      },
+      {
+        "value": "5",
+        "label": "Experiencia Multisectorial"
+      },
+      {
+        "value": "30+",
+        "label": "Profesionales liderados"
+      },
+      {
+        "value": "Global",
+        "label": "Programas de Escala Empresarial"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experiencia Ejecutiva",
+    "intro": "Trayectoria de liderazgo en industrias y entornos empresariales, conectando dirección estratégica con ejecución de extremo a extremo.",
+    "bullets": [
+      "Colaboración global y multisede con actores ejecutivos y técnicos",
+      "Liderazgo transversal entre negocio, datos, ingeniería y operaciones",
+      "Entrega end-to-end: estrategia, arquitectura, implementación de plataformas y adopción"
+    ]
+  },
+  "speaking": {
+    "title": "Conferencias",
+    "intro": "Participo en espacios ejecutivos y técnicos sobre transformación en tecnología, datos e IA.",
+    "bullets": [
+      "De IA generativa a IA agéntica: implicaciones para la estrategia empresarial",
+      "Arquitecturas de datos para decisiones escalables",
+      "Cómo construir organizaciones data-driven"
+    ]
+  },
+  "writing": {
+    "label": "Publicaciones y Liderazgo Intelectual",
+    "title": "Perspectivas de Estrategia a Ejecución",
+    "intro": "Publico perspectivas prácticas sobre liderazgo en tecnología, datos e IA para ejecutivos y equipos de ejecución. También soy autor de {{bookTitle}}.",
+    "bookTitle": "Discovering Big Data",
+    "topics": [
+      "De IA generativa a IA agéntica",
+      "Arquitecturas de datos para decisiones escalables",
+      "Cómo construir organizaciones data-driven"
+    ],
+    "ctaPrimary": "Leer en Medium",
+    "ctaSecondary": "Perfil de autor"
+  },
+  "contact": {
+    "label": "Contacto",
+    "title": "Conversemos",
+    "paragraph1": "Si quieres explorar cómo puedo apoyar la transformación tecnológica de tu organización, la agenda de tu consejo o el desarrollo de tu equipo ejecutivo, estoy disponible para una conversación estratégica.",
+    "paragraph2": "Escríbeme directamente o conéctate por LinkedIn para conversar oportunidades.",
+    "emailButton": "Envíame un correo",
+    "linkedinButton": "LinkedIn",
+    "emailFallbackPrefix": "¿Prefieres tu app de correo?"
+  },
+  "languageSwitcher": {
+    "en": "EN",
+    "es": "ES",
+    "switchToEnglish": "Cambiar a inglés",
+    "switchToSpanish": "Cambiar a español"
+  }
+}

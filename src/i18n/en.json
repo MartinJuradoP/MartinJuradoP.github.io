@@ -1,0 +1,174 @@
+{
+  "header": {
+    "brand": {
+      "line1": "MARTIN JURADO",
+      "line2": "PEDROZA"
+    },
+    "nav": {
+      "about": "About",
+      "advisory": "Advisory",
+      "experience": "Experience",
+      "writing": "Writing",
+      "speaking": "Speaking",
+      "contact": "Contact"
+    },
+    "cta": "Let's Connect",
+    "mobileMenuAria": "Toggle menu"
+  },
+  "hero": {
+    "eyebrow": "Technology, Data. AI. Transformation.",
+    "name": {
+      "first": "Martin Jurado",
+      "last": "Pedroza"
+    },
+    "category": "Technology, Data, AI & CTO Execution",
+    "role": "Executive Advisor",
+    "description": "Advising executive teams on technology, data and AI decisions with CTO-level execution depth from building systems, leading engineering teams, and delivering enterprise platforms with measurable outcomes.",
+    "proofLine": "Delivered enterprise data and AI platforms, led multidisciplinary teams, and enabled organizations to adopt data-driven decision-making at scale.",
+    "badges": [
+      "CTO / CDAO / CAIO",
+      "Board & Advisory",
+      "Data, AI & Architecture",
+      "Upskilling & Capability Building",
+      "Author of Discovering Big Data"
+    ],
+    "ctaPrimary": "Let's Connect",
+    "ctaSecondary": "View Experience",
+    "imageAlt": "Portrait of Martin Jurado Pedroza"
+  },
+  "about": {
+    "label": "About",
+    "title": "Executive-Level Transformation Leadership",
+    "paragraphs": [
+      "I work with executive teams and boards at the intersection of strategy and execution, helping organizations navigate technology transformation with clarity, alignment, and measurable impact. My approach combines deep technical insight with business acumen to ensure decisions are architected for both short-term wins and long-term value.",
+      "Rather than building products or features, I build organizational capability, mentoring leaders, designing governance structures, and crafting roadmaps that turn strategy into sustainable competitive advantage.",
+      "My advisory perspective is grounded in CTO-level execution: building resilient systems, leading multidisciplinary engineering organizations, and delivering data and AI platforms from architecture through production adoption.",
+      "I also drive organizational transformation through capability building: upskilling internal talent, establishing data and AI academies, and enabling business teams to adopt new practices with confidence and ownership."
+    ],
+    "expertise": {
+      "items": [
+        {
+          "title": "Technology Strategy",
+          "description": "Aligning technology roadmaps with business objectives and market opportunity."
+        },
+        {
+          "title": "AI & Data Leadership",
+          "description": "Building AI and data functions that drive business transformation and value."
+        },
+        {
+          "title": "Organizational Design",
+          "description": "Structuring teams and governance for effective execution and scalability."
+        },
+        {
+          "title": "Risk Management",
+          "description": "Identifying and mitigating business, technical, and execution risks."
+        },
+        {
+          "title": "Board Advisory",
+          "description": "Providing strategic counsel to boards on technology and transformation."
+        },
+        {
+          "title": "Executive Coaching",
+          "description": "Developing leadership capabilities and decision-making frameworks."
+        }
+      ]
+    }
+  },
+  "advisory": {
+    "label": "Advisory Services",
+    "title": "Advisory & Executive Committees",
+    "intro": "I collaborate with executive teams and advisory boards to guide technology, data and AI initiatives, ensuring strategic alignment, risk mitigation and scalable execution grounded in real-world platform delivery and engineering leadership.",
+    "activationLine": "I support upskilling, executive enablement, and organizational activation to translate strategy into sustained adoption.",
+    "cards": [
+      {
+        "icon": "👥",
+        "title": "Executive Decision Support",
+        "description": "Guide executive decision-making on AI and data investments with business impact analysis and execution trade-offs."
+      },
+      {
+        "icon": "🎯",
+        "title": "Strategic Alignment",
+        "description": "Align technical capabilities with real business needs and market opportunities."
+      },
+      {
+        "icon": "⚡",
+        "title": "Risk-Aware Transformation",
+        "description": "Reduce transformation risk through architecture, governance and phased execution."
+      },
+      {
+        "icon": "🌉",
+        "title": "Business & Technical Bridge",
+        "description": "Bridge business and technical teams to ensure clear communication and alignment."
+      },
+      {
+        "icon": "📈",
+        "title": "Strategy to Delivery",
+        "description": "Support execution from strategy definition to operational delivery, platform rollout, and scaling."
+      }
+    ],
+    "stats": [
+      {
+        "value": "12+",
+        "label": "Years of Leadership"
+      },
+      {
+        "value": "5",
+        "label": "Multi-Industry Experience"
+      },
+      {
+        "value": "30+",
+        "label": "Professionals Led"
+      },
+      {
+        "value": "Global",
+        "label": "Enterprise-Scale Programs"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Executive Experience",
+    "intro": "Leadership across industries and enterprise environments, connecting strategic direction with end-to-end execution.",
+    "bullets": [
+      "Global and multi-market collaboration with executive and technical stakeholders",
+      "Cross-functional leadership across business, data, engineering, and operations",
+      "End-to-end delivery from strategy, architecture, and platform implementation to adoption"
+    ]
+  },
+  "speaking": {
+    "title": "Speaking",
+    "intro": "I speak with executive and technical audiences about technology, data, and AI transformation.",
+    "bullets": [
+      "From Generative AI to Agentic AI: implications for enterprise strategy",
+      "Data Architectures for Scalable Decision-Making",
+      "Building Data-Driven Organizations"
+    ]
+  },
+  "writing": {
+    "label": "Writing & Thought Leadership",
+    "title": "Insights from Strategy to Execution",
+    "intro": "I publish practical perspectives on technology, data, and AI leadership for executives and builders. I am also the author of {{bookTitle}}.",
+    "bookTitle": "Discovering Big Data",
+    "topics": [
+      "From Generative AI to Agentic AI",
+      "Data Architectures for Scalable Decision-Making",
+      "Building Data-Driven Organizations"
+    ],
+    "ctaPrimary": "Read on Medium",
+    "ctaSecondary": "Author Profile"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's Connect",
+    "paragraph1": "Interested in exploring how I can support your organization's technology transformation, board advisory needs, or executive team development? I'm available for strategic conversations.",
+    "paragraph2": "Reach out directly or connect via LinkedIn to discuss opportunities.",
+    "emailButton": "Email me",
+    "linkedinButton": "LinkedIn",
+    "emailFallbackPrefix": "Prefer your default mail app?"
+  },
+  "languageSwitcher": {
+    "en": "EN",
+    "es": "ES",
+    "switchToEnglish": "Switch to English",
+    "switchToSpanish": "Switch to Spanish"
+  }
+}

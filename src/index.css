@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html, body, #root {
+  @apply h-full w-full;
+}
+
+body {
+  @apply bg-slate-950 text-slate-100 antialiased;
+  background-image: 
+    linear-gradient(135deg, #0f0f0f 0%, #1a1a2e 50%, #0f0f0f 100%),
+    url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="5" /></filter><rect width="300" height="300" fill="%23000" /><rect width="300" height="300" fill="%23fff" opacity=".015" filter="url(%23n)" /></svg>');
+  background-attachment: fixed;
+}
+
+* {
+  @apply box-border;
+}
+
+/* Premium text styles */
+h1 {
+  @apply font-serif text-slate-50 tracking-tight;
+}
+
+h2 {
+  @apply font-serif text-slate-50 tracking-tight;
+}
+
+h3 {
+  @apply font-serif text-slate-100;
+}
+
+/* Gold accent line */
+.accent-line {
+  @apply h-1 w-16 bg-gradient-to-r from-gold-500 to-transparent mb-6;
+}
+
+/* Premium button styles */
+.btn-primary {
+  @apply relative inline-flex items-center gap-2 rounded-lg bg-gold-500 px-6 py-3 text-sm font-semibold text-slate-900 transition-all duration-300 hover:bg-gold-400 hover:shadow-lg hover:shadow-gold-500/20;
+}
+
+.btn-secondary {
+  @apply relative inline-flex items-center gap-2 rounded-lg border border-slate-700 px-6 py-3 text-sm font-semibold text-slate-200 transition-all duration-300 hover:border-slate-500 hover:bg-slate-900/50;
+}
+
+.btn-outline-gold {
+  @apply relative inline-flex items-center gap-2 rounded-md border border-gold-500/70 px-6 py-3 text-sm font-semibold uppercase tracking-wide text-gold-500 transition-all duration-300 hover:bg-gold-500/10 hover:border-gold-400;
+}
+
+/* Glass effect for cards */
+.glass {
+  @apply rounded-xl border border-slate-800/50 bg-slate-900/40 backdrop-blur-sm;
+}
+
+/* Vignette effect */
+.vignette {
+  position: relative;
+}
+
+.vignette::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: radial-gradient(circle at center, transparent 0%, rgba(0, 0, 0, 0.4) 100%);
+  pointer-events: none;
+}
