@@ -21,9 +21,9 @@
       "first": "Martin Jurado",
       "last": "Pedroza"
     },
-    "category": "Technology, Data, AI & CTO Execution",
+    "category": "Technology, Data, AI & Transformation",
     "role": "Executive Advisor",
-    "description": "Advising executive teams on technology, data and AI decisions with CTO-level execution depth from building systems, leading engineering teams, and delivering enterprise platforms with measurable outcomes.",
+    "description": "Advising executive teams on technology, data and AI decisions with C-level execution depth from building systems, leading engineering teams, and delivering enterprise platforms with measurable outcomes.",
     "proofLine": "Delivered enterprise data and AI platforms, led multidisciplinary teams, and enabled organizations to adopt data-driven decision-making at scale.",
     "badges": [
       "CTO / CDAO / CAIO",
@@ -42,7 +42,7 @@
     "paragraphs": [
       "I work with executive teams and boards at the intersection of strategy and execution, helping organizations navigate technology transformation with clarity, alignment, and measurable impact. My approach combines deep technical insight with business acumen to ensure decisions are architected for both short-term wins and long-term value.",
       "Rather than building products or features, I build organizational capability, mentoring leaders, designing governance structures, and crafting roadmaps that turn strategy into sustainable competitive advantage.",
-      "My advisory perspective is grounded in CTO-level execution: building resilient systems, leading multidisciplinary engineering organizations, and delivering data and AI platforms from architecture through production adoption.",
+      "My advisory perspective is grounded in C-level execution: building resilient systems, leading multidisciplinary engineering organizations, and delivering data and AI platforms from architecture through production adoption.",
       "I also drive organizational transformation through capability building: upskilling internal talent, establishing data and AI academies, and enabling business teams to adopt new practices with confidence and ownership."
     ],
     "expertise": {
@@ -131,7 +131,10 @@
     "bullets": [
       "Global and multi-market collaboration with executive and technical stakeholders",
       "Cross-functional leadership across business, data, engineering, and operations",
-      "End-to-end delivery from strategy, architecture, and platform implementation to adoption"
+      "End-to-end delivery from strategy and architecture to platform implementation and adoption",
+      "Collaboration with universities to drive applied research, bridging academic insight with business priorities",
+      "Leading organizational transformation programs, enabling culture change and accelerating business impact",
+      "Establishing digital labs and building data, IoT, and AI platforms as strategic growth enablers"
     ]
   },
   "speaking": {
@@ -151,7 +154,8 @@
     "topics": [
       "From Generative AI to Agentic AI",
       "Data Architectures for Scalable Decision-Making",
-      "Building Data-Driven Organizations"
+      "Building Data-Driven Organizations",
+      "Killing a Data Strategy: How Culture Can Stall Digital Transformation"
     ],
     "ctaPrimary": "Read on Medium",
     "ctaSecondary": "Author Profile"

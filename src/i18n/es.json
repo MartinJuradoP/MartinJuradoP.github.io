@@ -21,9 +21,9 @@
       "first": "Martin Jurado",
       "last": "Pedroza"
     },
-    "category": "Tecnología, Datos, IA y Ejecución CTO",
+    "category": "Tecnología, Datos, IA y Transformación",
     "role": "Asesor Ejecutivo",
-    "description": "Asesoro a equipos directivos en decisiones de tecnología, datos e IA con profundidad de ejecución a nivel CTO: construcción de sistemas, liderazgo de equipos de ingeniería y entrega de plataformas empresariales con resultados medibles.",
+    "description": "Asesoro a equipos directivos en decisiones de tecnología, datos e IA con profundidad de ejecución a nivel C-level: construcción de sistemas, liderazgo de equipos de ingeniería y entrega de plataformas empresariales con resultados medibles.",
     "proofLine": "He liderado la entrega de plataformas empresariales de datos e IA, coordinado equipos multidisciplinarios y habilitado la adopción de decisiones basadas en datos a escala.",
     "badges": [
       "CTO / CDAO / CAIO",
@@ -42,7 +42,7 @@
     "paragraphs": [
       "Trabajo con comités ejecutivos y consejos en la intersección entre estrategia y ejecución, ayudando a las organizaciones a avanzar su transformación tecnológica con claridad, alineación y resultados medibles. Mi enfoque combina profundidad técnica y visión de negocio para diseñar decisiones que generen impacto inmediato y valor sostenible.",
       "Más que construir productos o funcionalidades, desarrollo capacidad organizacional: acompaño líderes, diseño modelos de gobierno y estructuro hojas de ruta que convierten la estrategia en ventaja competitiva sostenida.",
-      "Mi perspectiva de asesoría está respaldada por ejecución a nivel CTO: construcción de sistemas resilientes, liderazgo de organizaciones de ingeniería multidisciplinarias y entrega de plataformas de datos e IA desde la arquitectura hasta su adopción en producción.",
+      "Mi perspectiva de asesoría está respaldada por ejecución a nivel C-level: construcción de sistemas resilientes, liderazgo de organizaciones de ingeniería multidisciplinarias y entrega de plataformas de datos e IA desde la arquitectura hasta su adopción en producción.",
       "También impulso transformación organizacional mediante desarrollo de capacidades: upskilling de talento interno, creación de academias de datos e IA y habilitación de equipos de negocio para adoptar nuevas prácticas con autonomía y confianza."
     ],
     "expertise": {
@@ -127,11 +127,14 @@
   },
   "experience": {
     "title": "Experiencia Ejecutiva",
-    "intro": "Trayectoria de liderazgo en industrias y entornos empresariales, conectando dirección estratégica con ejecución de extremo a extremo.",
+    "intro": "Liderazgo en industrias y entornos empresariales, conectando dirección estratégica con ejecución end-to-end.",
     "bullets": [
       "Colaboración global y multisede con actores ejecutivos y técnicos",
       "Liderazgo transversal entre negocio, datos, ingeniería y operaciones",
-      "Entrega end-to-end: estrategia, arquitectura, implementación de plataformas y adopción"
+      "Entrega end-to-end: estrategia, arquitectura, implementación de plataformas y adopción",
+      "Colaboración con universidades para impulsar investigación aplicada, conectando visión académica con prioridades de negocio",
+      "Liderazgo de programas de transformación organizacional, habilitando cambio cultural y acelerando impacto de negocio",
+      "Creación de laboratorios digitales y construcción de plataformas de datos, IoT e IA como habilitadores estratégicos de crecimiento"
     ]
   },
   "speaking": {
@@ -151,7 +154,8 @@
     "topics": [
       "De IA generativa a IA agéntica",
       "Arquitecturas de datos para decisiones escalables",
-      "Cómo construir organizaciones data-driven"
+      "Cómo construir organizaciones data-driven",
+      "Impulsando la Transformación Digital desde la Cultura"
     ],
     "ctaPrimary": "Leer en Medium",
     "ctaSecondary": "Perfil de autor"
