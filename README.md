@@ -145,12 +145,19 @@ This generates an optimized `dist/` folder ready for deployment.
 
 ### Deploy to GitHub Pages
 
-1. Ensure your repository is `MartinJuradoP.github.io`
-2. Build the project: `npm run build`
-3. Commit and push the `dist/` folder to your repository
-4. GitHub Pages automatically deploys the latest version
+This repository includes a GitHub Actions workflow at `.github/workflows/deploy.yml`.
 
-Alternatively, use GitHub Actions to automate this process.
+1. In GitHub, open repository settings:
+   - `Settings` → `Pages`
+2. Under `Build and deployment`, set:
+   - `Source`: `GitHub Actions`
+3. Push any commit to `main`
+4. The workflow will:
+   - Install dependencies (`npm ci`)
+   - Build the app (`npm run build`)
+   - Publish `dist/` to GitHub Pages
+
+No manual commit of `dist/` is required.
 
 ## Colors & Styling
 
@@ -191,4 +198,3 @@ None required for this project.
 
 - Repository: `https://github.com/MartinJuradoP/MartinJuradoP.github.io`
 - Live site: `https://MartinJuradoP.github.io`
-
