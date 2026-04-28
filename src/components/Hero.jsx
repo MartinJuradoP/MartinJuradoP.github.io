@@ -65,10 +65,8 @@ function Hero() {
             {/* Name */}
             <motion.div variants={itemVariants} className="space-y-2">
               <h1 className="text-5xl font-semibold lg:text-7xl leading-tight">
-                {t('hero.name.first')}
-              </h1>
-              <h1 className="text-5xl font-semibold lg:text-7xl leading-tight text-gold-500">
-                {t('hero.name.last')}
+                <span className="block">{t('hero.name.first')}</span>
+                <span className="block text-gold-500">{t('hero.name.last')}</span>
               </h1>
             </motion.div>
 
@@ -142,6 +140,9 @@ function Hero() {
               <img
                 src={profileImage}
                 alt={t('hero.imageAlt')}
+                width="768"
+                height="1024"
+                decoding="async"
                 className="w-full max-w-[42rem] xl:max-w-[48rem] object-contain object-bottom drop-shadow-[0_26px_70px_rgba(0,0,0,0.65)]"
               />
 
