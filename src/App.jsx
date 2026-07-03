@@ -36,7 +36,11 @@ const LANG_META = {
   }
 };
 
-function getCanonicalUrl(language) {
+function getCanonicalUrl() {
+  return `${SITE_URL}`;
+}
+
+function getLocalizedUrl(language) {
   const normalized = language === 'es' ? 'es' : 'en';
   return `${SITE_URL}?lang=${normalized}`;
 }
@@ -85,7 +89,8 @@ function buildSchemaForLanguage(language, t) {
   const proof = t('proof', { returnObjects: true }) || {};
   const faq = t('faq.questions', { returnObjects: true }) || [];
   const schemaLanguage = language === 'es' ? 'es' : 'en';
-  const canonical = getCanonicalUrl(language);
+  const canonical = getCanonicalUrl();
+  const localizedUrl = getLocalizedUrl(language);
 
   const breadcrumb = {
     '@type': 'BreadcrumbList',
@@ -141,8 +146,8 @@ function buildSchemaForLanguage(language, t) {
   const webPageSchema = {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
-    '@id': `${canonical}#webpage`,
-    url: canonical,
+    '@id': `${localizedUrl}#webpage`,
+    url: localizedUrl,
     name: t('header.brand.line1') + ' ' + t('header.brand.line2'),
     description,
     inLanguage: schemaLanguage,
@@ -179,7 +184,8 @@ function App() {
     const language = i18n.resolvedLanguage === 'es' ? 'es' : 'en';
     const seo = LANG_META[language];
     const t = i18n.getFixedT(language);
-    const canonical = getCanonicalUrl(language);
+  const canonical = getCanonicalUrl();
+  const localizedUrl = getLocalizedUrl(language);
 
     document.title = seo.title;
     document.documentElement.lang = language;
@@ -192,7 +198,7 @@ function App() {
     upsertMetaTag('property', 'og:description', seo.description);
     upsertMetaTag('property', 'og:locale', seo.ogLocale);
     upsertMetaTag('property', 'og:locale:alternate', language === 'es' ? 'en_US' : 'es_MX');
-    upsertMetaTag('property', 'og:url', canonical);
+    upsertMetaTag('property', 'og:url', localizedUrl);
     upsertMetaTag('property', 'og:image', OG_IMAGE_URL);
     upsertMetaTag('name', 'twitter:image', OG_IMAGE_URL);
     upsertMetaTag('name', 'twitter:title', seo.title);
