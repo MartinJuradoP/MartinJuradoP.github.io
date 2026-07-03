@@ -1,12 +1,24 @@
+import { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 
 function LanguageSwitcher({ className = '' }) {
   const { i18n, t } = useTranslation();
   const activeLanguage = i18n.resolvedLanguage === 'es' ? 'es' : 'en';
 
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const requestedLanguage = params.get('lang');
+    if (requestedLanguage === 'en' || requestedLanguage === 'es') {
+      i18n.changeLanguage(requestedLanguage);
+    }
+  }, [i18n]);
+
   const setLanguage = (language) => {
     if (language !== activeLanguage) {
       i18n.changeLanguage(language);
+      const url = new URL(window.location.href);
+      url.searchParams.set('lang', language);
+      window.history.replaceState(null, '', url);
     }
   };
 

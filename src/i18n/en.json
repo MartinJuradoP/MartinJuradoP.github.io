@@ -10,6 +10,8 @@
       "experience": "Experience",
       "writing": "Writing",
       "speaking": "Speaking",
+      "proof": "Proof",
+      "faq": "FAQ",
       "contact": "Contact"
     },
     "cta": "Let's Connect",
@@ -35,6 +37,11 @@
     "ctaPrimary": "Let's Connect",
     "ctaSecondary": "View Experience",
     "imageAlt": "Portrait of Martin Jurado Pedroza"
+  },
+  "seo": {
+    "profileDescription": "Executive advisor in technology, data, and AI for leadership teams and boards. I help organizations move from strategy to measurable execution through enterprise-grade data and AI governance.",
+    "twitterImageAlt": "Martin Jurado Pedroza - Executive Advisor in technology, data and AI",
+    "socialHandle": "martinjurado"
   },
   "about": {
     "label": "About",
@@ -168,6 +175,62 @@
     "emailButton": "Email me",
     "linkedinButton": "LinkedIn",
     "emailFallbackPrefix": "Prefer your default mail app?"
+  },
+  "proof": {
+    "label": "Proof of Impact",
+    "title": "Proof of leadership, not promises",
+    "intro": "I do not advertise vague claims. This is the evidence language behind advisory work in enterprise environments.",
+    "metrics": [
+      {
+        "value": "12+",
+        "label": "Years in executive technology leadership"
+      },
+      {
+        "value": "7",
+        "label": "Verticals supported with transformation programs"
+      },
+      {
+        "value": "30+",
+        "label": "Teams and talent development cycles led"
+      },
+      {
+        "value": "Global",
+        "label": "Enterprise scale initiatives"
+      }
+    ],
+    "credentials": [
+      "Author of Discovering Big Data.",
+      "Built enterprise data and AI capabilities for complex organizations.",
+      "Led digital labs and data governance frameworks for business-aligned AI.",
+      "Board and advisory experience in transformation, architecture, and execution."
+    ]
+  },
+  "faq": {
+    "label": "FAQ for decision makers",
+    "title": "Questions executives ask before engaging advisory",
+    "intro": "Short answers to the questions most boards and leadership teams ask when evaluating technology and AI advisory.",
+    "questions": [
+      {
+        "question": "How can you prove value in six months?",
+        "answer": "By combining a diagnostic sprint, prioritized roadmap, and three execution tracks: data readiness, model governance, and organizational capability. We define value metrics in the first 45 days and publish them in a measurable scorecard."
+      },
+      {
+        "question": "How do you reduce transformation risk?",
+        "answer": "By splitting strategy into outcomes, risks, owners, and measurable milestones. I pair governance with technical architecture decisions so delivery teams and executive committees share one language and one source of truth."
+      },
+      {
+        "question": "What does your advisory model deliver for the first quarter?",
+        "answer": "A clear transformation charter, decision framework, capability map, and operating model for AI and data adoption. The goal is to convert urgency into an executable plan with visible ownership and deadlines."
+      },
+      {
+        "question": "Do you only advise on AI, or also business architecture?",
+        "answer": "Both. AI is effective when embedded in architecture, operations, incentives, and leadership cadence. I focus on end-to-end alignment from board priorities to engineering execution."
+      },
+      {
+        "question": "Do you work with startups or only large enterprises?",
+        "answer": "I work across scales and complexity levels, from emerging growth teams to global organizations, but the delivery model is always adapted to leadership maturity and risk appetite."
+      }
+    ]
   },
   "languageSwitcher": {
     "en": "EN",

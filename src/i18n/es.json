@@ -10,6 +10,8 @@
       "experience": "Experiencia",
       "writing": "Publicaciones",
       "speaking": "Conferencias",
+      "proof": "Respaldo",
+      "faq": "FAQ",
       "contact": "Contacto"
     },
     "cta": "Conversemos",
@@ -35,6 +37,11 @@
     "ctaPrimary": "Conversemos",
     "ctaSecondary": "Ver experiencia",
     "imageAlt": "Retrato de Martin Jurado Pedroza"
+  },
+  "seo": {
+    "profileDescription": "Asesor ejecutivo en tecnología, datos e IA para equipos directivos y consejos. Ayudo a convertir estrategia en ejecución medible mediante gobierno de datos y marcos de transformación sostenibles.",
+    "twitterImageAlt": "Martin Jurado Pedroza - Asesor Ejecutivo en tecnología, datos e IA",
+    "socialHandle": "martinjurado"
   },
   "about": {
     "label": "Sobre mí",
@@ -168,6 +175,62 @@
     "emailButton": "Envíame un correo",
     "linkedinButton": "LinkedIn",
     "emailFallbackPrefix": "¿Prefieres tu app de correo?"
+  },
+  "proof": {
+    "label": "Respaldo de impacto",
+    "title": "Prueba de liderazgo, no promesas",
+    "intro": "No promuevo afirmaciones vagas. Aquí está el lenguaje de evidencia detrás del trabajo de asesoría en entornos empresariales.",
+    "metrics": [
+      {
+        "value": "12+",
+        "label": "Años en liderazgo tecnológico ejecutivos"
+      },
+      {
+        "value": "7",
+        "label": "Industrias con programas de transformación"
+      },
+      {
+        "value": "30+",
+        "label": "Equipos y ciclos de desarrollo de talento dirigidos"
+      },
+      {
+        "value": "Global",
+        "label": "Iniciativas de alcance empresarial"
+      }
+    ],
+    "credentials": [
+      "Autor de Discovering Big Data.",
+      "Diseñé capacidades de datos e IA en organizaciones empresariales complejas.",
+      "Lideré laboratorios digitales y marcos de gobierno de datos orientados a IA de negocio.",
+      "Experiencia en consejos y asesoría ejecutiva para transformación y arquitectura."
+    ]
+  },
+  "faq": {
+    "label": "Preguntas para tomadores de decisión",
+    "title": "Dudas que suelen resolver los consejos antes de iniciar asesoría",
+    "intro": "Respuestas concretas para las preguntas que más se repiten al evaluar transformación tecnológica y de IA.",
+    "questions": [
+      {
+        "question": "¿Cómo demuestras impacto en seis meses?",
+        "answer": "Con un sprint inicial de diagnóstico, ruta priorizada y tres frentes de ejecución: madurez de datos, gobierno de modelos y capacidades organizacionales. Los indicadores de valor se pactan en las primeras 45 días."
+      },
+      {
+        "question": "¿Cómo disminuyes el riesgo de transformación?",
+        "answer": "Diseñando gobernanza, arquitectura y un esquema de riesgos con responsables y fechas. Esto alinea comité ejecutivo, negocio y equipos técnicos con un lenguaje único y un plan verificable."
+      },
+      {
+        "question": "¿Qué entrega esperas en el primer trimestre?",
+        "answer": "Un charter de transformación, marco de decisiones, mapa de capacidades y modelo operativo para adopción de IA y datos. El objetivo es convertir la urgencia en ejecución con ownership claro."
+      },
+      {
+        "question": "¿Solo asesoras IA o también arquitectura de negocio?",
+        "answer": "Ambas áreas. La IA solo genera valor si está integrada en arquitectura, operación, incentivos y cadencia de liderazgo."
+      },
+      {
+        "question": "¿Trabajas con startups o solo con grandes empresas?",
+        "answer": "Trabajo en distintos tamaños y grados de complejidad. El modelo siempre se adapta al nivel de madurez, estructura y tolerancia al riesgo del cliente."
+      }
+    ]
   },
   "languageSwitcher": {
     "en": "EN",

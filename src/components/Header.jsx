@@ -13,6 +13,8 @@ function Header() {
     { key: 'experience', href: '#experience' },
     { key: 'writing', href: '#writing' },
     { key: 'speaking', href: '#speaking' },
+    { key: 'proof', href: '#proof' },
+    { key: 'faq', href: '#faq' },
     { key: 'contact', href: '#contact' }
   ];
 
